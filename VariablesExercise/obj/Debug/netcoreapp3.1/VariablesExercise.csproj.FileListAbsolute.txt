@@ -1,0 +1,14 @@
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.deps.json
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.runtimeconfig.json
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.runtimeconfig.dev.json
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.dll
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.pdb
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csproj.AssemblyReference.cache
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.AssemblyInfoInputs.cache
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.AssemblyInfo.cs
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.dll
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.pdb
+/Users/elliottp/Documents/Dev/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.genruntimeconfig.cache
